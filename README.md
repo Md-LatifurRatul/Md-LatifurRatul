@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engineer with a focus on mobile app development, data science, AI machine learning, and backend technologies.
+I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engineer with a focus on mobile app development, Web Development, data science, AI machine learning, and backend technologies.
 
 🔭 Current Projects:
 - Developing cross-platform mobile apps using Flutter.
@@ -11,6 +11,7 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 - JavaScript and backend development for full-stack web applications.
 - Enhancing my skills in Flutter with advanced development techniques.
 - Enhancing skills in advanced programming techniques
+- Web Development 
 
 👯 Open to Collaborate on:
 - Mobile app development using Flutter.
@@ -26,7 +27,8 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 - Backend: Node.js, Express (in progress)
 - Programming Languages: Python, JavaScript, C, C++
 - Version Control: Git, GitHub
-- Data Science Tools: Pandas, NumPy, Matplotlib, 
+- Data Science Tools: Pandas, NumPy, Matplotlib,
+- JavafXML 
 
 📫 How to reach me:
 - Email:  [latifursoikot@gmail.com](https://latifursoikot@gmail.com)
