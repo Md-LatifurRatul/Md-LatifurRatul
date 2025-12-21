@@ -5,11 +5,13 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 🔭 Current Projects:
 - Developing cross-platform mobile apps using Flutter.
 - Working on AI-based image processing and data analysis with Python.
-- Working on Web-Based E-Commerce Site using React
+- Working on Web-Based E-Commerce Site using React.
+- Working on Machine Learning Projects.
 
 🌱 Currently Learning:
-- Python for data science and AI-based image processing.
+- Python for data science, Machine Learning and AI-based image processing.
 - JavaScript and backend development for full-stack web applications.
+- Goloang for backend Engineering
 - Enhancing my skills in Flutter with advanced development techniques.
 - Enhancing skills in advanced programming techniques
 - Web Development 
@@ -20,8 +22,10 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 - Full-stack projects requiring JavaScript and backend technologies.
 
 💼 Professional Experience:
-- 1+ year of experience as a Freelance Flutter Developer, building different projects.
+- More than 2+ year of experience as a Flutter Developer, building different projects.
 - Experience with REST API integration and optimizing user experiences for mobile platforms.
+- Performance Optimization with state-management integration.
+- Building Responsive UI for different platforms.
 
 💡 Skills:
 - Mobile Development: Flutter, Dart
