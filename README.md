@@ -29,7 +29,7 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 
 💡 Skills:
 - Mobile Development: Flutter, Dart
-- Backend: Node.js, Express (in progress)
+- Backend: Node.js, Express (in progress), FastAPI, Go
 - Programming Languages: Python, JavaScript, C, C++
 - Version Control: Git, GitHub
 - Data Science Tools: Pandas, NumPy, Matplotlib,
@@ -58,7 +58,7 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 
 <!--
 **Md-LatifurRatul/Md-LatifurRatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
