@@ -10,8 +10,9 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 
 🌱 Currently Learning:
 - Python for data science, Machine Learning and AI-based image processing.
-- JavaScript and backend development for full-stack web applications.
+- Kotlin For Android Development and Also For Cross-Platform.
 - Go programming language for backend Engineering.
+- RUST and Dart(FFI)
 - Enhancing my skills in Flutter with advanced development techniques.
 - Enhancing skills in advanced programming techniques
 - Web Development 
