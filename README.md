@@ -15,12 +15,11 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 - RUST and Dart(FFI)
 - Enhancing my skills in Flutter with advanced development techniques.
 - Enhancing skills in advanced programming techniques
-- Web Development 
 
 👯 Open to Collaborate on:
 - Mobile app development using Flutter.
 - Projects involving Python for machine learning or data analysis.
-- Full-stack projects requiring JavaScript and backend technologies.
+- Full-stack projects requiring JavaScript, Fast-API and backend technologies.
 
 💼 Professional Experience:
 - More than 2+ year of experience as a Flutter Developer, building different projects.
