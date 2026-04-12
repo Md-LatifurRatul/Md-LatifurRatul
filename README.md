@@ -22,10 +22,37 @@ I'm Md. Latifur Rahman Ratul, a passionate Flutter Developer and Software Engine
 - Full-stack projects requiring JavaScript, Fast-API and backend technologies.
 
 💼 Professional Experience:
-- More than 2+ year of experience as a Flutter Developer, building different projects.
-- Experience with REST API integration and optimizing user experiences for mobile platforms.
-- Performance Optimization with state-management integration.
-- Building Responsive UI for different platforms.
+
+Flutter Developer with **2+ years** of hands-on experience building, shipping, and maintaining production-grade mobile applications. Focused on performance, clean architecture, and scalable cross-platform solutions.
+
+🛠 Core Expertise
+- **Cross-Platform Development** — Building high-quality Android & iOS apps with Flutter, delivering pixel-perfect, responsive UIs that adapt seamlessly across devices and form factors.
+- **State Management** — Hands-on experience with `Provider`, `Bloc`, and `GetX`, applied with performance-first architecture patterns.
+- **REST API Integration** — Designing robust networking layers with `Dio` and `http`, including interceptors, token refresh, retry logic, and offline-first caching strategies.
+- **Performance Optimization** — Profiling with Flutter DevTools, eliminating rebuild storms, reducing jank, optimizing render pipelines, and tuning memory/GPU usage for smooth 60–120 FPS experiences.
+- **Native Integration** — Bridging Flutter with native Android (Kotlin) and iOS (Swift) code via Platform Channels. Integrating **Rust FFI** for compute-heavy modules to achieve native-level performance.
+- **Continuous Delivery (OTA Updates)** — Implementing code-push workflows (Shorebird) to ship Dart-level patches directly to users without forced store updates — reducing release cycles from weeks to minutes.
+- **Play Store Publishing & Billing** — End-to-end experience publishing apps to the Google Play Store, including Play Store In-App Billing integration, subscription flows, and compliance with store policies.
+- **Payment Gateway Integration** — Integrated third-party payment solutions including **SSLCommerz** and **bKash** for the Bangladeshi market, handling secure checkout, order verification, and transaction reconciliation.
+- **Responsive & Adaptive UI** — Building interfaces that scale gracefully across phones, tablets, foldables, and different platform idioms.
+- **Clean Architecture & Code Quality** — Following SOLID principles, feature-first folder structures, dependency injection, and writing testable, maintainable code.
+
+### 📦 Published Open-Source Packages
+
+I actively contribute to the Flutter ecosystem through open-source packages published on [pub.dev](https://pub.dev):
+
+| Package | Description |
+|---------|-------------|
+| [**adapti_flow**](https://pub.dev/packages/adapti_flow) | A Flutter package for building adaptive, responsive layouts that work fluidly across screen sizes and orientations. |
+| [**network_caller_http**](https://pub.dev/packages/network_caller_http) | A clean, lightweight networking layer built on top of the `http` package — with structured error handling and response parsing. |
+| [**network_caller_dio**](https://pub.dev/packages/network_caller_dio) | A feature-rich networking abstraction built on `Dio`, offering interceptors, retry logic, and robust error handling out of the box. |
+
+🎯 What I Bring to a Team
+
+- Production mindset — I ship, maintain, and iterate on real apps used by real users.
+- Performance-first approach — I profile before I optimize, and optimize where it matters.
+- Ownership — from architecture decisions to Play Store releases and post-launch monitoring.
+- Continuous learning — staying current with Flutter's evolving ecosystem, best practices, and tooling.
 
 💡 Skills:
 - Mobile Development: Flutter, Dart
