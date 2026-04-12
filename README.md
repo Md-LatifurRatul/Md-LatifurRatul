@@ -49,10 +49,10 @@ I actively contribute to the Flutter ecosystem through open-source packages publ
 
 🎯 What I Bring to a Team
 
-- Production mindset — I ship, maintain, and iterate on real apps used by real users.
-- Performance-first approach — I profile before I optimize, and optimize where it matters.
-- Ownership — from architecture decisions to Play Store releases and post-launch monitoring.
-- Continuous learning — staying current with Flutter's evolving ecosystem, best practices, and tooling.
+- Production mindset : ship, maintain, and iterate on real apps used by real users.
+- Performance-first approach : optimize where it matters.
+- Ownership : from architecture decisions to Play Store releases and post-launch monitoring.
+- Continuous learning : staying current with Flutter's evolving ecosystem, best practices, and tooling.
 
 💡 Skills:
 - Mobile Development: Flutter, Dart
