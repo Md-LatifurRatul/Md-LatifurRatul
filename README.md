@@ -21,11 +21,8 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  AT-A-GLANCE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-LatifurRatul&label=Profile%20views&color=02569B&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/Md-LatifurRatul?label=Followers&style=flat-square&color=02569B" alt="followers" />
   <img src="https://img.shields.io/badge/Flutter-2%2B%20yrs-02569B?style=flat-square&logo=flutter&logoColor=white" alt="exp" />
   <img src="https://img.shields.io/badge/pub.dev-3%20packages-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-006A4E?style=flat-square" alt="location" />
 </div>
 
 <br />
