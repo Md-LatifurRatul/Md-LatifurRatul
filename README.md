@@ -137,8 +137,8 @@ ethos:    "ship, measure, profile, refactor — then ship again"
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-LatifurRatul&theme=tokyonight" alt="stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Md-LatifurRatul&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-LatifurRatul&theme=tokyonight&v=2" alt="stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Md-LatifurRatul&theme=tokyonight&hide_border=true&v=2" alt="streak" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░  TOP LANGUAGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -146,13 +146,13 @@ ethos:    "ship, measure, profile, refactor — then ship again"
 ### Most Used Languages
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-LatifurRatul&theme=tokyonight" alt="repos per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-LatifurRatul&theme=tokyonight" alt="most commit language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-LatifurRatul&theme=tokyonight&utcOffset=6" alt="productive time" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-LatifurRatul&theme=tokyonight&v=2" alt="repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-LatifurRatul&theme=tokyonight&v=2" alt="most commit language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-LatifurRatul&theme=tokyonight&utcOffset=6&v=2" alt="productive time" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-LatifurRatul&theme=tokyonight" alt="profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-LatifurRatul&theme=tokyonight&v=2" alt="profile details" width="98%" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
